@@ -1,5 +1,5 @@
 import Component from '@ember/component';
-import zfWidget from 'ember-cli-foundation-6-sass/mixins/zf-widget';
+import zfWidget from '@nycplanning/ember-cli-foundation-6-sass/mixins/zf-widget';
 
 export default Component.extend(zfWidget, {
 

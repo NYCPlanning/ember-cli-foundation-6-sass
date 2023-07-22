@@ -1,7 +1,7 @@
 import Component from '@ember/component';
 import { computed } from '@ember/object';
 import { assert } from '@ember/debug';
-import zfWidget from 'ember-cli-foundation-6-sass/mixins/zf-widget';
+import zfWidget from '@nycplanning/ember-cli-foundation-6-sass/mixins/zf-widget';
 
 export default Component.extend(zfWidget, {
   /** @member Class names */

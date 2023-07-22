@@ -1,6 +1,6 @@
 import EmberObject from '@ember/object';
 import $ from 'jquery';
-import zfWidgetMixin from 'ember-cli-foundation-6-sass/mixins/zf-widget';
+import zfWidgetMixin from '@nycplanning/ember-cli-foundation-6-sass/mixins/zf-widget';
 import { module, test } from 'qunit';
 
 module('Unit | Mixin | zf widget', function() {
